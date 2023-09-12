@@ -1,0 +1,10 @@
+var first = "Doodle";
+var last = "Loo";
+var full_name = first.concat(last);
+console.log(full_name);
+var a = "60";
+var b = "10";
+var square_root = Math.sqrt(a);
+console.log(square_root);
+var max_number = Math.max(a,b);
+console.log(max_number);
